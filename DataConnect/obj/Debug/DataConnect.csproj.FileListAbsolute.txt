@@ -1,0 +1,8 @@
+E:\Projects\MyGroceryList\DataConnect\bin\Debug\DataConnect.dll.config
+E:\Projects\MyGroceryList\DataConnect\bin\Debug\DataConnect.dll
+E:\Projects\MyGroceryList\DataConnect\bin\Debug\DataConnect.pdb
+E:\Projects\MyGroceryList\DataConnect\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MyGroceryList\DataConnect\obj\Debug\DataConnect.dll
+E:\Projects\MyGroceryList\DataConnect\obj\Debug\DataConnect.pdb
+E:\Projects\MyGroceryList\DataConnect\bin\Debug\DataSetCommon.dll
+E:\Projects\MyGroceryList\DataConnect\bin\Debug\DataSetCommon.pdb
