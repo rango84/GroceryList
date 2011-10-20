@@ -1,0 +1,5 @@
+C:\Users\Goran\.ssh\GroceryList\GroceryListCommon\bin\Debug\GroceryListCommon.dll
+C:\Users\Goran\.ssh\GroceryList\GroceryListCommon\bin\Debug\GroceryListCommon.pdb
+C:\Users\Goran\.ssh\GroceryList\GroceryListCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Goran\.ssh\GroceryList\GroceryListCommon\obj\Debug\GroceryListCommon.dll
+C:\Users\Goran\.ssh\GroceryList\GroceryListCommon\obj\Debug\GroceryListCommon.pdb

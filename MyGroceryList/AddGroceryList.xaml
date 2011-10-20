@@ -1,0 +1,11 @@
+﻿<Window x:Class="MyGroceryList.AddGroceryList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="New Grocery List" Height="150" Width="500" MaxHeight="150" MaxWidth="500" MinWidth="500" MinHeight="150">
+    <Grid>
+        <Label Content="Grocery List Name:" Height="28" HorizontalAlignment="Left" Margin="30,15,0,0" Name="lblGroceryListName" VerticalAlignment="Top" Width="118" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="162,17,0,0" Name="txtGroceryListName" VerticalAlignment="Top" Width="308" />
+        <Button Content="Add" Height="23" HorizontalAlignment="Left" Margin="314,71,0,0" Name="btnAdd" VerticalAlignment="Top" Width="75" Click="btnAdd_Click" />
+        <Button Content="Cancel" Height="23" HorizontalAlignment="Left" Margin="395,71,0,0" Name="btnCancel" VerticalAlignment="Top" Width="75" IsCancel="True"/>
+    </Grid>
+</Window>
