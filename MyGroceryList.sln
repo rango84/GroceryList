@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataConnect", "DataConnect\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSetCommon", "DataSetCommon\DataSetCommon.csproj", "{E7D65A14-A779-4560-A51F-90000A202B67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryListCommon", "GroceryListCommon\GroceryListCommon.csproj", "{95D4E98F-5044-4674-8BC8-64340CCFA4E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,16 @@ Global
 		{E7D65A14-A779-4560-A51F-90000A202B67}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{E7D65A14-A779-4560-A51F-90000A202B67}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{E7D65A14-A779-4560-A51F-90000A202B67}.Release|x86.ActiveCfg = Release|Any CPU
+		{95D4E98F-5044-4674-8BC8-64340CCFA4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D4E98F-5044-4674-8BC8-64340CCFA4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D4E98F-5044-4674-8BC8-64340CCFA4E7}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{95D4E98F-5044-4674-8BC8-64340CCFA4E7}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{95D4E98F-5044-4674-8BC8-64340CCFA4E7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{95D4E98F-5044-4674-8BC8-64340CCFA4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D4E98F-5044-4674-8BC8-64340CCFA4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D4E98F-5044-4674-8BC8-64340CCFA4E7}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{95D4E98F-5044-4674-8BC8-64340CCFA4E7}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{95D4E98F-5044-4674-8BC8-64340CCFA4E7}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,3 +6,11 @@ E:\Projects\MyGroceryList\DataConnect\obj\Debug\DataConnect.dll
 E:\Projects\MyGroceryList\DataConnect\obj\Debug\DataConnect.pdb
 E:\Projects\MyGroceryList\DataConnect\bin\Debug\DataSetCommon.dll
 E:\Projects\MyGroceryList\DataConnect\bin\Debug\DataSetCommon.pdb
+C:\Users\Goran\.ssh\GroceryList\DataConnect\bin\Debug\DataConnect.dll.config
+C:\Users\Goran\.ssh\GroceryList\DataConnect\bin\Debug\DataConnect.dll
+C:\Users\Goran\.ssh\GroceryList\DataConnect\bin\Debug\DataConnect.pdb
+C:\Users\Goran\.ssh\GroceryList\DataConnect\bin\Debug\DataSetCommon.dll
+C:\Users\Goran\.ssh\GroceryList\DataConnect\bin\Debug\DataSetCommon.pdb
+C:\Users\Goran\.ssh\GroceryList\DataConnect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Goran\.ssh\GroceryList\DataConnect\obj\Debug\DataConnect.dll
+C:\Users\Goran\.ssh\GroceryList\DataConnect\obj\Debug\DataConnect.pdb

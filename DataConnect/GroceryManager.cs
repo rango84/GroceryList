@@ -32,5 +32,21 @@ namespace DataConnect
             }
             return groceryList;
         }
+
+        public void AddNewGroceryList(GroceryList GroceryList) 
+        {
+            using (SqlCeConnection Con = CompactDataSource.EstablishConnection()) 
+            {
+                using (SqlCeCommand Cmd = Con.CreateCommand()) 
+                {
+                    Cmd.CommandText = "INSERT INTO GroceryList(GroceryListName, GroceryListDate) VALUES (@Name,@Date) ";
+                    Cmd.Parameters.AddWithValue("@Name", GroceryList.GroceryListName);
+                    Cmd.Parameters.AddWithValue("@Date", GroceryList.GroceryListDate);
+                    Cmd.ExecuteScalar();
+                }
+            }
+        }
     }
+
+
 }

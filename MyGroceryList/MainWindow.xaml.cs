@@ -24,8 +24,11 @@ namespace MyGroceryList
     public partial class MainWindow : Window
     {
         GroceryManager m_Manager;
+        private delegate void UpdateInfo(object sender, RoutedEventArgs e);
+        private UpdateInfo m_UpdateInfo;
         public MainWindow()
         {
+            m_UpdateInfo += new UpdateInfo(InitOnLoad);
             InitializeComponent();
             Loaded += InitOnLoad;
             m_Manager = new GroceryManager();
@@ -44,6 +47,19 @@ namespace MyGroceryList
         private void btnExit_Click(object sender, RoutedEventArgs e)
         {
             this.Close();
+        }
+
+        private void btnNewGroceryList_Click(object sender, RoutedEventArgs e)
+        {
+            AddGroceryList newList = new AddGroceryList();
+            string newListName = String.Empty;
+            if ((bool)newList.ShowDialog()) 
+            {
+                newListName = newList.txtGroceryListName.Text;
+                GroceryList newGroceryList = new GroceryList(newListName, DateTime.Now);
+                m_Manager.AddNewGroceryList(newGroceryList);
+                m_UpdateInfo.Invoke(this, e);
+            }
         }
     }
 }

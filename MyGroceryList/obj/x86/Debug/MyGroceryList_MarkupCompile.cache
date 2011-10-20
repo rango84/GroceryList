@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Projects\MyGroceryList\MyGroceryList\obj\x86\Debug\
+C:\Users\Goran\.ssh\GroceryList\MyGroceryList\obj\x86\Debug\
 MyGroceryList
 none
 false
 DEBUG;TRACE
-E:\Projects\MyGroceryList\MyGroceryList\App.xaml
-2932992514
+C:\Users\Goran\.ssh\GroceryList\MyGroceryList\App.xaml
+4-984336447
 1-1306389674
-7-11468094
-16116213400
-MainWindow.xaml;MenuBar.xaml;
+9-958621731
+16-1092841569
+AddGroceryList.xaml;Recipe.xaml;MainWindow.xaml;MenuBar.xaml;
 
 False
 

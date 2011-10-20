@@ -3,3 +3,8 @@ E:\Projects\MyGroceryList\DataSetCommon\bin\Debug\DataSetCommon.pdb
 E:\Projects\MyGroceryList\DataSetCommon\obj\Debug\ResolveAssemblyReference.cache
 E:\Projects\MyGroceryList\DataSetCommon\obj\Debug\DataSetCommon.dll
 E:\Projects\MyGroceryList\DataSetCommon\obj\Debug\DataSetCommon.pdb
+C:\Users\Goran\.ssh\GroceryList\DataSetCommon\bin\Debug\DataSetCommon.dll
+C:\Users\Goran\.ssh\GroceryList\DataSetCommon\bin\Debug\DataSetCommon.pdb
+C:\Users\Goran\.ssh\GroceryList\DataSetCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Goran\.ssh\GroceryList\DataSetCommon\obj\Debug\DataSetCommon.dll
+C:\Users\Goran\.ssh\GroceryList\DataSetCommon\obj\Debug\DataSetCommon.pdb

@@ -19,5 +19,6 @@ namespace DataSetCommon
         
         public string GroceryListName { get { return m_GroceryListName; } set { m_GroceryListName = value; } }
         public DateTime GroceryListDate { get { return m_GroderyListDate; } set { m_GroderyListDate = value; } }
+        public string FormattedListDate { get { return m_GroderyListDate.ToString("yyyy-MM-dd"); } }
     }
 }
