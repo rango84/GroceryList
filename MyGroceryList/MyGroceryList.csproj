@@ -76,7 +76,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Recipe.xaml">
+    <Page Include="GroceryListView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -87,8 +87,8 @@
     <Compile Include="AddGroceryList.xaml.cs">
       <DependentUpon>AddGroceryList.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Recipe.xaml.cs">
-      <DependentUpon>Recipe.xaml</DependentUpon>
+    <Compile Include="GroceryListView.xaml.cs">
+      <DependentUpon>GroceryListView.xaml</DependentUpon>
     </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>

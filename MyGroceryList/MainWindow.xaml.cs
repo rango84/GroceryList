@@ -61,5 +61,24 @@ namespace MyGroceryList
                 m_UpdateInfo.Invoke(this, e);
             }
         }
+
+        private void btnViewList_Click(object sender, RoutedEventArgs e)
+        {
+            if (groceryList.SelectedItem == null)
+                return;
+            GroceryList selectedList = groceryList.SelectedItem as GroceryList;
+            if (selectedList == null)
+                return;
+            try 
+            {
+                GroceryListView groceryListView = new GroceryListView();
+                groceryListView.ShowDialog();
+            }
+            catch 
+            {
+
+            }
+
+        }
     }
 }

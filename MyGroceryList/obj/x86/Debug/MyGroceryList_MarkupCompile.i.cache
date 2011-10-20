@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Goran\.ssh\GroceryList\MyGroceryList\App.xaml
-4-984336447
+4-480921220
 1-1306389674
-10-705218041
+10-411574858
 16-1092841569
-AddGroceryList.xaml;Recipe.xaml;MainWindow.xaml;MenuBar.xaml;
+AddGroceryList.xaml;GroceryListView.xaml;MainWindow.xaml;MenuBar.xaml;
 
 True
 

@@ -27,7 +27,7 @@
             </ListView>
             <Button Content="New Grocery List" Height="23" Margin="0,0,14,55" Name="btnNewGroceryList" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="111" Click="btnNewGroceryList_Click" />
             <Button Content="Exit" Height="23" Margin="0,0,14,25" Name="btnExit" VerticalAlignment="Bottom" Click="btnExit_Click" HorizontalAlignment="Right" Width="111" IsCancel="True"/>
-            <Button Content="View Grocery List" Height="23" Margin="0,0,14,84" Name="btnViewList" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="111" />
+            <Button Content="View Grocery List" Height="23" Margin="0,0,14,84" Name="btnViewList" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="111" Click="btnViewList_Click" />
         </Grid>
     </DockPanel>
 </Window>

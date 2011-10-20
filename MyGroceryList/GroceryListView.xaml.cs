@@ -16,9 +16,9 @@ namespace MyGroceryList
     /// <summary>
     /// Interaction logic for AddRecipe.xaml
     /// </summary>
-    public partial class Recipe : Window
+    public partial class GroceryListView : Window
     {
-        public Recipe()
+        public GroceryListView()
         {
             InitializeComponent();
         }

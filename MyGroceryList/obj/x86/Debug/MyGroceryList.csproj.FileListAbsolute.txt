@@ -25,7 +25,6 @@ E:\Projects\MyGroceryList\MyGroceryList\obj\x86\Debug\MyGroceryList_MarkupCompil
 C:\Users\Goran\.ssh\GroceryList\MyGroceryList\bin\Debug\MyGroceryList.exe.config
 C:\Users\Goran\.ssh\GroceryList\MyGroceryList\obj\x86\Debug\MyGroceryList.exe
 C:\Users\Goran\.ssh\GroceryList\MyGroceryList\obj\x86\Debug\MyGroceryList.pdb
-C:\Users\Goran\.ssh\GroceryList\MyGroceryList\bin\Debug\GroceryDB.sdf
 C:\Users\Goran\.ssh\GroceryList\MyGroceryList\bin\Debug\MyGroceryList.exe
 C:\Users\Goran\.ssh\GroceryList\MyGroceryList\bin\Debug\MyGroceryList.pdb
 C:\Users\Goran\.ssh\GroceryList\MyGroceryList\bin\Debug\DataConnect.dll
@@ -48,5 +47,6 @@ C:\Users\Goran\.ssh\GroceryList\MyGroceryList\obj\x86\Debug\GenerateResource.rea
 C:\Users\Goran\.ssh\GroceryList\MyGroceryList\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Goran\.ssh\GroceryList\MyGroceryList\obj\x86\Debug\AddGroceryList.baml
 C:\Users\Goran\.ssh\GroceryList\MyGroceryList\obj\x86\Debug\AddGroceryList.g.cs
-C:\Users\Goran\.ssh\GroceryList\MyGroceryList\obj\x86\Debug\Recipe.baml
-C:\Users\Goran\.ssh\GroceryList\MyGroceryList\obj\x86\Debug\Recipe.g.cs
+C:\Users\Goran\.ssh\GroceryList\MyGroceryList\obj\x86\Debug\GroceryListView.g.cs
+C:\Users\Goran\.ssh\GroceryList\MyGroceryList\obj\x86\Debug\GroceryListView.baml
+C:\Users\Goran\.ssh\GroceryList\MyGroceryList\bin\Debug\GroceryDB.sdf
