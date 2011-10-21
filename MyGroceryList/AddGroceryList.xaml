@@ -3,6 +3,12 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="New Grocery List" Height="150" Width="500" MaxHeight="150" MaxWidth="500" MinWidth="500" MinHeight="150">
     <Grid>
+        <Grid.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#07D5B900" Offset="0" />
+            <GradientStop Color="White" Offset="1" />
+        </LinearGradientBrush>
+        </Grid.Background>
         <Label Content="Grocery List Name:" Height="28" HorizontalAlignment="Left" Margin="30,15,0,0" Name="lblGroceryListName" VerticalAlignment="Top" Width="118" />
         <TextBox Height="23" HorizontalAlignment="Left" Margin="162,17,0,0" Name="txtGroceryListName" VerticalAlignment="Top" Width="308" />
         <Button Content="Add" Height="23" HorizontalAlignment="Left" Margin="314,71,0,0" Name="btnAdd" VerticalAlignment="Top" Width="75" Click="btnAdd_Click" />

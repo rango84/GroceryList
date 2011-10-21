@@ -32,6 +32,7 @@ namespace MyGroceryList
             InitializeComponent();
             Loaded += InitOnLoad;
             m_Manager = new GroceryManager();
+            this.WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen;
         }
 
         private void InitOnLoad(object sender, RoutedEventArgs e)

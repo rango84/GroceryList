@@ -5,8 +5,14 @@
         Title="Recipe" Height="468" Width="797">
     <DockPanel>
         <Label Name="Status" DockPanel.Dock="Bottom" Height="23"/>
-    <Grid Background="{x:Null}">
-        <Grid.ColumnDefinitions>
+    <Grid>
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#07D5B900" Offset="0" />
+                    <GradientStop Color="White" Offset="1" />
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
             <ColumnDefinition Width="658*" />
             <ColumnDefinition Width="182*" />
         </Grid.ColumnDefinitions>
@@ -15,6 +21,7 @@
             <RowDefinition Height="271*" />
                 <RowDefinition Height="82*" />
             </Grid.RowDefinitions>
+        
         <Label Content="Recipe Name:" Height="28" HorizontalAlignment="Left" Margin="26,16,0,0" Name="lblRecipeName" VerticalAlignment="Top" Width="112" />
         <TextBox Height="23" HorizontalAlignment="Left" Margin="117,16,0,0" Name="txtRecipeName" VerticalAlignment="Top" Width="199" />
         <ListView Margin="26,42,21,9" Name="lstIngredients" Grid.Row="1" >

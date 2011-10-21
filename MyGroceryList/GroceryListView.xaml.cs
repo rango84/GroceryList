@@ -21,6 +21,7 @@ namespace MyGroceryList
         public GroceryListView()
         {
             InitializeComponent();
+            this.WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen;
         }
     }
 }

@@ -21,6 +21,7 @@ namespace MyGroceryList
         public AddGroceryList()
         {
             InitializeComponent();
+            this.WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen;
         }
 
         private void btnAdd_Click(object sender, RoutedEventArgs e)
