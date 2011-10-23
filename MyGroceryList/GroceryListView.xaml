@@ -41,7 +41,7 @@
                 
             </ListBox>
             <Label Content="Recipes" Height="28" HorizontalAlignment="Left" Margin="23,8,0,0" Name="label1" VerticalAlignment="Top" Width="110" Grid.Column="1" Grid.Row="1" />
-            <Button Content="Cancel" Height="23" HorizontalAlignment="Right" Margin="0,50,14,0" Name="btnCancel" VerticalAlignment="Top" Width="74" Grid.Column="1" Grid.Row="2" />
+            <Button Content="Cancel" Height="23" HorizontalAlignment="Right" Margin="0,50,14,0" Name="btnCancel" VerticalAlignment="Top" Width="74" Grid.Column="1" Grid.Row="2" IsCancel="True"/>
             <Button Content="Add Recipe" Height="23" HorizontalAlignment="Left" Margin="26,21,0,0" Name="btnAddRecipe" VerticalAlignment="Top" Width="104" Grid.Row="2" />
             <Button Content="Remove Recipe" Height="23" HorizontalAlignment="Left" Margin="148,21,0,0" Name="btnRemoveRecipe" VerticalAlignment="Top" Width="121" Grid.Row="2" />
         </Grid>
